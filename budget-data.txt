@@ -1,0 +1,4 @@
+jan|salary|credited|2400.0
+jan|rent|paid|-1300.0
+feb|salary|credited|2400.0
+feb|rent|1100|-1100.0
